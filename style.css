@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Merriweather:wght@400;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Shared Styles */
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}

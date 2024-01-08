@@ -109,7 +109,6 @@ line-height: normal;
     background-size:  contain ;
     display: flex;
     width: 100%;
-    background-blend-mode: multiply;
     height: 77.875vh;
     border-radius: 16px;
 
@@ -327,6 +326,7 @@ line-height: 32px; /* 160% */
   padding-right: 1%;
 
 }
+<<<<<<< HEAD
 
 /* Portfolio section styles */
 
@@ -500,3 +500,5 @@ font-family: 'Inter', sans-serif;
 font-size: 24px;
 font-weight: 500;
 }
+=======
+>>>>>>> 2ef91eab68147fa0b68a1e439daee1dac45c9cd3

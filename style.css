@@ -345,6 +345,7 @@ main {
 }
 
 .holiday-part2 {
+    margin-top: 5%;
     background-image: url("./resources/Rectangle\ 2.png"), url("./resources/Rectangle\ 1.png");
     background-repeat: no-repeat;
     background-size: contain, inherit;
@@ -515,7 +516,6 @@ footer {
 hr {
 
     color: rgb(49, 49, 49);
-    background-color: rgb(41, 41, 41);
 }
 
 .footer-part1 {

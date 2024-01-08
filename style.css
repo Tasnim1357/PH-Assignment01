@@ -326,7 +326,6 @@ line-height: 32px; /* 160% */
   padding-right: 1%;
 
 }
-<<<<<<< HEAD
 
 /* Portfolio section styles */
 
@@ -451,8 +450,8 @@ footer{
    background: #070211;
 }
 hr{
-    /* color: rgba(255, 255, 255, 0.15); */
-    color: rgba(103, 102, 102, 0.15);
+   
+    color: rgba(9, 9, 9, 0.15);
 }
 .footer-part1{
     display: flex;
@@ -501,5 +500,3 @@ font-family: 'Inter', sans-serif;
 font-size: 24px;
 font-weight: 500;
 }
-=======
->>>>>>> 2ef91eab68147fa0b68a1e439daee1dac45c9cd3

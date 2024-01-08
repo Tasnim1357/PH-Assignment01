@@ -451,7 +451,8 @@ footer{
    background: #070211;
 }
 hr{
-    color: rgba(255, 255, 255, 0.15);
+    /* color: rgba(255, 255, 255, 0.15); */
+    color: rgba(103, 102, 102, 0.15);
 }
 .footer-part1{
     display: flex;

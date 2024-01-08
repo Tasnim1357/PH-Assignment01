@@ -42,7 +42,7 @@ header {
     justify-content: center;
     align-items: center;
     width: 50%;
-    height: 92vh;
+    height: 90vh;
     margin-top: -8%;
 
 }
@@ -107,7 +107,7 @@ line-height: normal;
     background-size:  contain ;
     display: flex;
     width: 100%;
-    height: 78.5vh;
+    height: 76vh;
     border-radius: 16px;
 
 }

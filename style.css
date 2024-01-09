@@ -513,16 +513,17 @@ footer {
     background: #070211;
 }
 
-hr {
+/* hr {
 
     color: rgb(49, 49, 49);
-}
+} */
 
 .footer-part1 {
     display: flex;
     justify-content: space-between;
     padding: 5% 0%;
     padding-right: 4%;
+    border-bottom: 2px solid rgb(37, 37, 37);
 }
 
 .street h6 {
@@ -557,7 +558,8 @@ hr {
     display: flex;
     justify-content: center;
     gap: 40px;
-    margin-left: 8%;
+    padding-left: 5%;
+    border-bottom: 2px solid rgb(37, 37, 37);
 }
 
 .footer-part3 {
